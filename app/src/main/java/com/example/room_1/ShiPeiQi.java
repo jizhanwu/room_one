@@ -115,7 +115,5 @@ public class ShiPeiQi extends RecyclerView.Adapter<ShiPeiQi.MyViewHolder> {
 4：一定要使用LayoutManager来管理RecyclerView，这是RecyclerView的优于ListView的地方，可扩展性强
 
 5：等理解深入的时候要学会解决滑动冲突，因为我们很有可能需要上下滑动和水平滑动。
-————————————————
-版权声明：本文为CSDN博主「AndyYuan317」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_42618969/article/details/81290143
+
  */
